@@ -1,3 +1,3 @@
-# icy_golang
+# icy_exercism
 
-This's my repo to save different tasks, that was solved with Go
+This's exercism's solution
